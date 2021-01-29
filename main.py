@@ -50,3 +50,5 @@ def bar(x):
     if x < 0:
         return
     return math.sqrt(x)
+
+print('Hi')
